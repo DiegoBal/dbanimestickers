@@ -1,0 +1,22 @@
+{
+    "identifier": "test",
+    "isWhitelisted": "",
+    "licenseAgreementWebsite": "test",
+    "name": "test",
+    "privacyPolicyWebsite": "test",
+    "publisher": "test",
+    "publisherEmail": "",
+    "publisherWebsite": "test",
+    "stickers": [
+        {
+            "emojis": [],
+            "imageFileName": "",
+            "size": "20 KB",
+            "uri": "http:\/\/wastickermaker.iblinfotech.work\/uploadpack\/"
+        }
+    ],
+    "stickersAddedIndex": "",
+    "totalSize": "20 KB",
+    "trayImageFile": "try_icone_test.png",
+    "trayImageUri": "http:\/\/wastickermaker.iblinfotech.work\/uploadpack\/try_icone_test.png"
+}

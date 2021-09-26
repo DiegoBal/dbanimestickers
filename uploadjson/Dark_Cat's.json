@@ -1,0 +1,34 @@
+{
+    "identifier": "India",
+    "isWhitelisted": "",
+    "licenseAgreementWebsite": "http\/\/pqr.com",
+    "name": "Dark Cat's",
+    "privacyPolicyWebsite": "http\/\/xyz.com",
+    "publisher": "IBL",
+    "publisherEmail": "",
+    "publisherWebsite": "http\/\/abc.com",
+    "stickers": [
+        {
+            "emojis": [],
+            "imageFileName": "sticker_133.png",
+            "size": "44.9248046875 KB",
+            "uri": "http:\/\/wastickermaker.iblinfotech.work\/uploadpack\/sticker_133.png"
+        },
+        {
+            "emojis": [],
+            "imageFileName": "sticker_134.png",
+            "size": "45.1552734375 KB",
+            "uri": "http:\/\/wastickermaker.iblinfotech.work\/uploadpack\/sticker_134.png"
+        },
+        {
+            "emojis": [],
+            "imageFileName": "sticker_135.png",
+            "size": "44.7705078125 KB",
+            "uri": "http:\/\/wastickermaker.iblinfotech.work\/uploadpack\/sticker_135.png"
+        }
+    ],
+    "stickersAddedIndex": "",
+    "totalSize": "134.8505859375 KB",
+    "trayImageFile": "sticker_133.png",
+    "trayImageUri": "http:\/\/wastickermaker.iblinfotech.work\/uploadpack\/sticker_133.png"
+}
